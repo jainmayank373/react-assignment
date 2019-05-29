@@ -1,0 +1,39 @@
+ {
+	"arrayOfProducts": [
+  {
+    "_id": "5ceee5c43346379c5ec07864",
+    "name": "Barlow",
+    "weight": 37,
+    "availability": 53,
+    "isEditable": true
+  },
+  {
+    "_id": "5ceee5c4905c51989a59f4cc",
+    "name": "Alba",
+    "weight": 40,
+    "availability": 96,
+    "isEditable": false
+  },
+  {
+    "_id": "5ceee5c4523aa2b1117314bb",
+    "name": "Herminia",
+    "weight": 25,
+    "availability": 78,
+    "isEditable": false
+  },
+  {
+    "_id": "5ceee5c45a4fca34fab63100",
+    "name": "Wolf",
+    "weight": 35,
+    "availability": 4,
+    "isEditable": false
+  },
+  {
+    "_id": "5ceee5c4fa9b7eac278c58e5",
+    "name": "Brandie",
+    "weight": 21,
+    "availability": 57,
+    "isEditable": true
+  }
+]
+}
