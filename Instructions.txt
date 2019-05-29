@@ -1,0 +1,2 @@
+Note:- Please RUN "$npm install" command in the current folder to install all dependencies. 
+       Then run "$npm start" to start the project.
